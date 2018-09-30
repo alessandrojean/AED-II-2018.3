@@ -9,7 +9,7 @@ Federal University of ABC (UFABC).
 [year]: https://img.shields.io/badge/year-2018.2-blue.svg?style=flat-square
 [id]: https://img.shields.io/badge/id-MCTA002--13-yellowgreen.svg?style=flat-square
 [tpi]: https://img.shields.io/badge/T--P--I-2--2--4-lightgrey.svg?style=flat-square
-[last-class]: https://img.shields.io/badge/last_class-2018.09.21-green.svg?style=flat-square
+[last-class]: https://img.shields.io/badge/last_class-2018.09.28-green.svg?style=flat-square
 [language]: https://img.shields.io/badge/language-C-yellow.svg?style=flat-square
 [ide]: https://img.shields.io/badge/IDE-VSCode-orange.svg?style=flat-square
 
@@ -17,9 +17,11 @@ Federal University of ABC (UFABC).
 
 - **19/09/2018** *(Theory)*: Hashing introduction.
 - **21/09/2018** *(Laboratory)*: [Linear and Binary search].
+- **26/09/2018** *(Theory)*: Hash table.
+- **28/09/2018** *(Laboratory)*: [Hashing functions].
 
 [Linear and Binary search]: classes/laboratory/2018.09.21/
-
+[Hashing functions]: classes/laboratory/2018.09.28/
 
 ## Build instructions
 

@@ -3,5 +3,7 @@ bin/
 *.zip
 *.exe
 *.out
+*.o
+*.d
 pdfs/
 slides/
