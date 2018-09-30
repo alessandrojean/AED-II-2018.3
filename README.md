@@ -1,4 +1,4 @@
-# POO-2018.2
+# AED-II-2018.3
 ![Year][year] ![Id][id] ![T-P-I][tpi] ![Last class][last-class]
 ![Language][language] ![IDE][ide]
 
@@ -6,7 +6,7 @@ Algorithms written in the classes of Algorithms and Data
 Structures II (Algoritmos e Estruturas de Dados II) at 
 Federal University of ABC (UFABC).
 
-[year]: https://img.shields.io/badge/year-2018.2-blue.svg?style=flat-square
+[year]: https://img.shields.io/badge/year-2018.3-blue.svg?style=flat-square
 [id]: https://img.shields.io/badge/id-MCTA002--13-yellowgreen.svg?style=flat-square
 [tpi]: https://img.shields.io/badge/T--P--I-2--2--4-lightgrey.svg?style=flat-square
 [last-class]: https://img.shields.io/badge/last_class-2018.09.28-green.svg?style=flat-square
