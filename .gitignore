@@ -7,3 +7,4 @@ bin/
 *.d
 pdfs/
 slides/
+*.pdf
