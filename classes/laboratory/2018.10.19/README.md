@@ -18,12 +18,12 @@
    direito (ou esquerdo) do pai de `x` precisa ser acertado
    para apontar para `y`.
 
-<figure align="center">
-  <img src="img/img1.png">
-  <figcaption>
+<p align="center">
+  <img src="img/img1.png"><br/>
+  <em>
     Figura 1: Ilustração das operações de rotação.
-  </figcaption>
-</figure>
+  </em>
+</p>
 
 3. Implemente a função `right_rotate` que realiza uma rotação
    para direita na árvore, de acordo com a declaração:
@@ -60,16 +60,16 @@
    em que devemos aplicar a mudança de cor e o resultado
    final depois do processo.
 
-<figure align="center">
-  <img src="img/img2.png">
-  <figcaption>
+<p align="center">
+  <img src="img/img2.png"><br/>
+  <em>
     Figura 2: Configuração antes da coloração.
-  </figcaption>
-</figure>
+  </em>
+</p>
 
-<figure align="center">
-  <img src="img/img3.png">
-  <figcaption>
+<p align="center">
+  <img src="img/img3.png"><br/>
+  <em>
     Figura 3: Configuração depois da coloração.
-  </figcaption>
-</figure>
+  </em>
+</p>
