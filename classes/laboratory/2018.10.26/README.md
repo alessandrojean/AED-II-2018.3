@@ -14,7 +14,7 @@ violadas.
 Você deve criar uma função `rb_insert` com a seguinte assinatura:
 
 ```c
-rb_insert (Node ** T, int key);
+void rb_insert (Node ** T, int key);
 ```
 
 A função deve se basear no seguinte pseudo-código (conforme
