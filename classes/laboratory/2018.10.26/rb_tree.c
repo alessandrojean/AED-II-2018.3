@@ -208,3 +208,17 @@ int rb_black_height (Node * T) {
     return h_left;
   return h_left + 1;
 }
+
+void rb_print_inorder_util (Node * T) {
+  if (NIL_PTR == T || NULL == T)
+    return;
+
+  rb_print_inorder_util(T->left);
+  printf("%2d ", T->key);
+  rb_print_inorder_util(T->right);
+}
+
+void rb_print_inorder (Node * T) {
+  rb_print_inorder_util(T);
+  printf("\n");
+}

@@ -20,5 +20,6 @@ typedef struct Node {
 void rb_insert (Node ** T, int key);
 int rb_height (Node * T);
 int rb_black_height (Node * T);
+void rb_print_inorder (Node * T);
 
 #endif // RB_TREE_H_INCLUDED
