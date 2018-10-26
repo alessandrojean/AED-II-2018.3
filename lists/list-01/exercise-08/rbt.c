@@ -14,13 +14,11 @@ RBTreeNode * create_node (Data value) {
 
 int black_height (RBTreeNode * root) {
   if (root == NIL_PTR)
-    return -1;
+    return 0;
 
   int h_left = black_height(root->left);
-  int h_right = black_height(root->right);
-  int max_h = (h_left > h_right) ? h_left : h_right;
 
   if (root->color == RED)
-    return max_h;
-  return max_h + 1;
+    return h_left;
+  return h_left + 1;
 }
