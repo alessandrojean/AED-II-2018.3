@@ -10,10 +10,10 @@
 using namespace std;
 
 typedef struct tn_trie_node {
-	struct tn_trie_node* children[ALPHABET_LENGTH];
+  struct tn_trie_node* children[ALPHABET_LENGTH];
 
-	/* true caso esse no seja o no final de uma palavra*/
-	bool is_end_of_word;
+  /* true caso esse no seja o no final de uma palavra*/
+  bool is_end_of_word;
 } tn_trie_node;
 
 //typedef struct tn_trie_node tn_trie_node;
