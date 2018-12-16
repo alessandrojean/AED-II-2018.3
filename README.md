@@ -9,7 +9,7 @@ Federal University of ABC (UFABC).
 [year]: https://img.shields.io/badge/year-2018.3-blue.svg?style=flat-square
 [id]: https://img.shields.io/badge/id-MCTA002--13-yellowgreen.svg?style=flat-square
 [tpi]: https://img.shields.io/badge/T--P--I-2--2--4-lightgrey.svg?style=flat-square
-[last-class]: https://img.shields.io/badge/last_class-2018.11.30-green.svg?style=flat-square
+[last-class]: https://img.shields.io/badge/last_class-2018.12.05-green.svg?style=flat-square
 [language]: https://img.shields.io/badge/language-C-yellow.svg?style=flat-square
 [ide]: https://img.shields.io/badge/IDE-VSCode-orange.svg?style=flat-square
 
@@ -34,6 +34,7 @@ Federal University of ABC (UFABC).
 - **23/11/2018** *(Laboratory)*: [B-tree].
 - **28/11/2018** *(Theory)*: External Sorting.
 - **30/11/2018** *(Laboratory)*: [External Sorting].
+- **05/12/2018** *(Theory)*: **Second test**.
 
 [Linear and Binary search]: classes/laboratory/2018.09.21/
 [Hashing functions]: classes/laboratory/2018.09.28/
